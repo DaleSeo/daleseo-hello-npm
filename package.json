@@ -1,4 +1,8 @@
 {
   "name": "daleseo-hello-npm",
-  "version": "0.0.1"
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DaleSeo/daleseo-hello-npm.git"
+  }
 }
